@@ -1,0 +1,12 @@
+.card{
+    position: relative;
+    height:520px;
+    width: 300px;
+    background: rgba(0,0,0,0.45);
+}
+h1{
+    position:absolute;
+    height:auto;
+    width: auto;
+    color: black;
+}
